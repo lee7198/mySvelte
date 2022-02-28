@@ -4,7 +4,7 @@
 
 <form>
   <div class="form-field">
-    <label for="question">Poll Question :</label>
+    <label for="question">Poll Questions :</label>
     <input type="text" id="question">
   </div>
   <div class="form-field">
