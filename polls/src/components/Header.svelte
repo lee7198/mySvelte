@@ -7,7 +7,7 @@
 <style>
   header {
     background: #f7f7f7;
-    padding: 20px;
+    padding: 30px;
   }
   h1 {
     margin: 0;

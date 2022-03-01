@@ -34,8 +34,8 @@
     margin-bottom: 40px;
   }
   .active {
-    color:cadetblue;
-    border-bottom: 2px solid cadetblue;
+    color:rgb(40, 91, 150);
+    border-bottom: 2px solid rgb(40, 91, 150);
     padding-bottom: 8px;
   }
 </style>
